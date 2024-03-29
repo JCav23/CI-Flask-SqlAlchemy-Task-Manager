@@ -4,6 +4,11 @@ body {
     flex-direction: column;
   }
 
-  main {
-    flex: 1 0 auto;
-  }
+main {
+  flex: 1 0 auto;
+}
+
+.modal, .modal-footer{
+  background-color: #6a1b9a !important;
+  color: antiquewhite;
+}
